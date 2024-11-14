@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Lea
 I'm a Software Developer who loves the work and always wants to learn and know more!
 ## Technologies & Tools
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
+[React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
 ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
 ![JS](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 ![java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
