@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Lea
 I'm a Software Developer who loves the work and always wants to learn and know more!
+## Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 <!--
 **leasalikov/leasalikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
