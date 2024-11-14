@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Lea
 I'm a Software Developer who loves the work and always wants to learn and know more!
 ## Technologies & Tools
-[React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)
-![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" width="40" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" width="40" />
 ![JS](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 ![java](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
 ![Node](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
