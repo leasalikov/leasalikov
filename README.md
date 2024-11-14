@@ -3,6 +3,7 @@ I'm a Software Developer who loves the work and always wants to learn and know m
 ## Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="40" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="40" />
