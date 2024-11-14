@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Lea
-
+I'm a Software Developer who loves the work and always wants to learn and know more!
 <!--
 **leasalikov/leasalikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
