@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Lea
-I'm a Software Developer who loves the work and always wants to learn and know more!
+<b>I'm a Software Developer who loves the work and always wants to learn and know more!</b>
 ## Technologies & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40" />
